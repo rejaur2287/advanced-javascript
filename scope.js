@@ -7,7 +7,7 @@ function sum(first, second) {
     mood = 'Fishy';
     mood = 'Funcky';
     mood = 'Cranky';
-    // console.log(mood);
+    console.log(mood);
   }
   //   console.log(mood);
   console.log(day); //Undefined
